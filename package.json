@@ -1,0 +1,13 @@
+{
+  "name": "bc-expressjs-casa-hogar",
+  "version": "1.0.0",
+  "description": "Semana 1 - API REST Casa Hogar / Adultos Mayores (bc-expressjs)",
+  "main": "src/servidor.js",
+  "scripts": {
+    "start": "node src/servidor.js",
+    "dev": "node --watch src/servidor.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

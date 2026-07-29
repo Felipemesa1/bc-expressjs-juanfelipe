@@ -1,0 +1,1 @@
+# Semana 1 — Casa Hogar / Adultos Mayores (bc-expressjs)
