@@ -1,0 +1,20 @@
+{
+  "name": "semana01-casa-hogar",
+  "version": "1.0.0",
+  "description": "Semana 1 - Procesador de datos de actividades - Casa Hogar Adultos Mayores",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "packageManager": "pnpm@10.34.5",
+  "scripts": {
+    "dev": "tsx src/principal.ts",
+    "build": "tsc --noEmit",
+    "start": "node dist/src/principal.js"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.21",
+    "tsx": "4.19.4",
+    "typescript": "5.8.3"
+  },
+  "type": "module"
+}

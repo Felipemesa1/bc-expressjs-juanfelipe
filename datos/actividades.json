@@ -1,0 +1,14 @@
+[
+  { "id": "a001", "nombre": "Terapia física", "categoria": "fisica", "costo": 25000, "cuposDisponibles": 8, "activa": true },
+  { "id": "a002", "nombre": "Caminata asistida", "categoria": "fisica", "costo": 10000, "cuposDisponibles": 15, "activa": true },
+  { "id": "a003", "nombre": "Yoga suave", "categoria": "fisica", "costo": 20000, "cuposDisponibles": 12, "activa": true },
+  { "id": "a004", "nombre": "Jardín terapéutico", "categoria": "fisica", "costo": 12000, "cuposDisponibles": 6, "activa": false },
+  { "id": "a005", "nombre": "Taller de memoria", "categoria": "cognitiva", "costo": 15000, "cuposDisponibles": 10, "activa": true },
+  { "id": "a006", "nombre": "Manualidades", "categoria": "cognitiva", "costo": 18000, "cuposDisponibles": 10, "activa": true },
+  { "id": "a007", "nombre": "Musicoterapia", "categoria": "cognitiva", "costo": 22000, "cuposDisponibles": 8, "activa": true },
+  { "id": "a008", "nombre": "Pintura", "categoria": "cognitiva", "costo": 16000, "cuposDisponibles": 10, "activa": true },
+  { "id": "a009", "nombre": "Bingo", "categoria": "social", "costo": 5000, "cuposDisponibles": 20, "activa": true },
+  { "id": "a010", "nombre": "Cine foro", "categoria": "social", "costo": 8000, "cuposDisponibles": 25, "activa": true },
+  { "id": "a011", "nombre": "Coro", "categoria": "social", "costo": 10000, "cuposDisponibles": 15, "activa": true },
+  { "id": "a012", "nombre": "Repostería asistida", "categoria": "social", "costo": 20000, "cuposDisponibles": 8, "activa": false }
+]
