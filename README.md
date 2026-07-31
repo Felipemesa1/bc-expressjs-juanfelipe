@@ -31,7 +31,7 @@ pnpm dev             # muestra el resumen de todas las actividades
 pnpm dev -- --category social   # filtra solo la categoría "social"
 ```
 
-El reporte generado queda en `salida/reporte.json`.
+El reporte generado queda en `output/report.json`.
 
 ## Manejo de errores
 

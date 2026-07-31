@@ -7,8 +7,10 @@ import { join } from "path";
 import type { Reporte } from "./tipos.js";
 
 export async function escribirReporte(reporte: Reporte): Promise<void> {
-  const directorioSalida = join(import.meta.dirname, "..", "salida");
-  const rutaArchivo = join(directorioSalida, "reporte.json");
+  // La especificación exige literalmente la carpeta "output" y el archivo
+  // "report.json" (contrato externo, igual que el flag --category)
+  const directorioSalida = join(import.meta.dirname, "..", "output");
+  const rutaArchivo = join(directorioSalida, "report.json");
 
   await mkdir(directorioSalida, { recursive: true });
   await writeFile(rutaArchivo, JSON.stringify(reporte, null, 2), "utf-8");
