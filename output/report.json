@@ -1,0 +1,63 @@
+{
+  "generadoEn": "2026-07-31T21:05:22.313Z",
+  "filtroAplicado": "cognitiva",
+  "resumen": {
+    "total": 4,
+    "activas": 4,
+    "inactivas": 0,
+    "costoPromedio": 17750,
+    "masCostosa": {
+      "id": "a007",
+      "nombre": "Musicoterapia",
+      "categoria": "cognitiva",
+      "costo": 22000,
+      "cuposDisponibles": 8,
+      "activa": true
+    },
+    "masEconomica": {
+      "id": "a005",
+      "nombre": "Taller de memoria",
+      "categoria": "cognitiva",
+      "costo": 15000,
+      "cuposDisponibles": 10,
+      "activa": true
+    },
+    "categorias": [
+      "cognitiva"
+    ]
+  },
+  "actividades": [
+    {
+      "id": "a005",
+      "nombre": "Taller de memoria",
+      "categoria": "cognitiva",
+      "costo": 15000,
+      "cuposDisponibles": 10,
+      "activa": true
+    },
+    {
+      "id": "a006",
+      "nombre": "Manualidades",
+      "categoria": "cognitiva",
+      "costo": 18000,
+      "cuposDisponibles": 10,
+      "activa": true
+    },
+    {
+      "id": "a007",
+      "nombre": "Musicoterapia",
+      "categoria": "cognitiva",
+      "costo": 22000,
+      "cuposDisponibles": 8,
+      "activa": true
+    },
+    {
+      "id": "a008",
+      "nombre": "Pintura",
+      "categoria": "cognitiva",
+      "costo": 16000,
+      "cuposDisponibles": 10,
+      "activa": true
+    }
+  ]
+}
